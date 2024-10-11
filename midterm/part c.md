@@ -1,3 +1,4 @@
+```
 How many binary digits does 1 octal digit represent?
 1 octal digit represents 3 binary digits.
 
@@ -100,7 +101,9 @@ Bash Shell Script for User Interaction:
 clear
 echo "Please enter your full name:"
 read full_name
+
 echo "Please enter your age:"
 read age
 clear
 echo "Welcome, $full_name! You are $age years old."
+```
